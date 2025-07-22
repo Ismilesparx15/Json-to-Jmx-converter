@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Json2jmxconverter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Json2jmxconverter/target/Postman2Jmx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/postman2jmx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/postman2jmx/target/Postman2Jmx" vcs="Git" />
   </component>
